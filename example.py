@@ -5,7 +5,7 @@ import uu
 
 print("Socket successfully created")
 #host = socket.gethostname()
-host = '172.20.33.185'
+host = '172.20.9.103'
 port = 12345
 basename = "outputCR%s.avi"
 videocounter = 0
